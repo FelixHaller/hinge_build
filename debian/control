@@ -1,0 +1,12 @@
+Source: hinge
+Section: text
+Priority: optional
+Maintainer: Felix Haller <ich@ein-freier-mensch.de>
+Build-Depends: cdbs
+Standards-Version: 3.7.2
+
+Package: hinge
+Architecture: all
+Depends: ${misc:Depends}
+Description: Tool for working with convertible PCs
+ Lorem Ipsum.....bli bla blubber
